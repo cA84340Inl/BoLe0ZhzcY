@@ -1,7 +1,6 @@
 .kpt-pipeline/
 examples/
 templates/
-skaffold.yaml
 README.md
 .git/
 node_modules/
