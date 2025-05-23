@@ -1,0 +1,21 @@
+pytest
+pytest-parametrization>=2022.2.1
+pre-commit
+mypy
+deepdiff
+# MyPy stubs
+types-requests
+networkx-stubs
+types-python-dateutil
+boto3-stubs
+google-auth-stubs
+ratelimit-stubs
+types-google-cloud-ndb
+types-protobuf
+types-pytz
+types-jsonschema
+types-PyYAML
+types-setuptools
+types-retry
+types-decorator
+types-tabulate
